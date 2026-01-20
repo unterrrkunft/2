@@ -1,0 +1,12 @@
+D:\Git\Lab1Library\bin\Debug\net10.0\Lab1Library.deps.json
+D:\Git\Lab1Library\bin\Debug\net10.0\Lab1Library.dll
+D:\Git\Lab1Library\bin\Debug\net10.0\Lab1Library.pdb
+D:\Git\Lab1Library\obj\Debug\net10.0\Lab1Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Lab1Library\obj\Debug\net10.0\Lab1Library.AssemblyInfoInputs.cache
+D:\Git\Lab1Library\obj\Debug\net10.0\Lab1Library.AssemblyInfo.cs
+D:\Git\Lab1Library\obj\Debug\net10.0\Lab1Library.csproj.CoreCompileInputs.cache
+D:\Git\Lab1Library\obj\Debug\net10.0\Lab1Library.sourcelink.json
+D:\Git\Lab1Library\obj\Debug\net10.0\Lab1Library.dll
+D:\Git\Lab1Library\obj\Debug\net10.0\refint\Lab1Library.dll
+D:\Git\Lab1Library\obj\Debug\net10.0\Lab1Library.pdb
+D:\Git\Lab1Library\obj\Debug\net10.0\ref\Lab1Library.dll
