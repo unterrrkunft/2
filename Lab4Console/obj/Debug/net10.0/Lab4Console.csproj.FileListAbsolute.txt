@@ -1,0 +1,15 @@
+D:\Git\Lab4Console\bin\Debug\net10.0\Lab4Console.exe
+D:\Git\Lab4Console\bin\Debug\net10.0\Lab4Console.deps.json
+D:\Git\Lab4Console\bin\Debug\net10.0\Lab4Console.runtimeconfig.json
+D:\Git\Lab4Console\bin\Debug\net10.0\Lab4Console.dll
+D:\Git\Lab4Console\bin\Debug\net10.0\Lab4Console.pdb
+D:\Git\Lab4Console\obj\Debug\net10.0\Lab4Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Lab4Console\obj\Debug\net10.0\Lab4Console.AssemblyInfoInputs.cache
+D:\Git\Lab4Console\obj\Debug\net10.0\Lab4Console.AssemblyInfo.cs
+D:\Git\Lab4Console\obj\Debug\net10.0\Lab4Console.csproj.CoreCompileInputs.cache
+D:\Git\Lab4Console\obj\Debug\net10.0\Lab4Console.sourcelink.json
+D:\Git\Lab4Console\obj\Debug\net10.0\Lab4Console.dll
+D:\Git\Lab4Console\obj\Debug\net10.0\refint\Lab4Console.dll
+D:\Git\Lab4Console\obj\Debug\net10.0\Lab4Console.pdb
+D:\Git\Lab4Console\obj\Debug\net10.0\Lab4Console.genruntimeconfig.cache
+D:\Git\Lab4Console\obj\Debug\net10.0\ref\Lab4Console.dll
